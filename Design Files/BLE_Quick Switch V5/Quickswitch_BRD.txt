@@ -1,0 +1,16 @@
+Board Information Report
+Filename     : S:\anzoraslanukov-designreview\Design Files\BLE_Quick Switch V5\Quickswitch_BRD.PcbDoc
+Date         : 3/30/2025
+Time         : 8:40:40 AM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 98.94%
+    Connections, 94
+    Connections routed, 93
+    Connections remaining, 1
+count : 4
+
+Net Track Width, Count
+    8mils, 28
+count : 1
