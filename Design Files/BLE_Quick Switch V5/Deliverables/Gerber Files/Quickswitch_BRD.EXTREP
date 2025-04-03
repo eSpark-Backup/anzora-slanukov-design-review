@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Quickswitch_BRD.GBR   3/30/2025  11:04:03 AM
+Gerber File Extension Report For: Quickswitch_BRD.GBR   4/3/2025  8:06:05 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -16,6 +16,7 @@ Layer Extension     Layer Description
 .GBO                Bottom Overlay                          
 .GM2                Board Outline                           
 .GM3                Mechanical 3                            
+.GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
 .GD1                Drill Drawing                           

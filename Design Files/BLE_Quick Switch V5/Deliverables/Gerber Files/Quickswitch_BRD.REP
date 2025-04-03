@@ -2,6 +2,188 @@
 FileName = Quickswitch_BRD.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Overlay
+      File : Quickswitch_BRD.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Quickswitch_BRD.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Quickswitch_BRD.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Quickswitch_BRD.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Quickswitch_BRD.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D70
+    D72
+    D80
+    D94
+    D95
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Quickswitch_BRD.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D67
+    D68
+    D97
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Quickswitch_BRD.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Quickswitch_BRD.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D98
+    D99
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Quickswitch_BRD.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
 Generating : Mechanical 3
       File : Quickswitch_BRD.GM3
 
@@ -10,8 +192,58 @@ Generating : Mechanical 3
 
 Used DCodes :
     D11
-    D99
+    D71
     D100
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Quickswitch_BRD.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D94
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Quickswitch_BRD.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D69
+    D94
 *************************************************************
 
 *************************************************************
@@ -25,6 +257,7 @@ Generating : Top Layer
 
 Used DCodes :
     D11
+    D19
     D20
     D21
     D22
@@ -71,228 +304,8 @@ Used DCodes :
     D91
     D92
     D93
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : Quickswitch_BRD.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D98
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Quickswitch_BRD.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Quickswitch_BRD.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D70
-    D92
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Quickswitch_BRD.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
     D94
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Quickswitch_BRD.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D69
-    D71
-    D77
-    D92
-    D93
-    D94
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Quickswitch_BRD.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D92
-    D94
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Quickswitch_BRD.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Quickswitch_BRD.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D66
-    D67
-    D68
     D95
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Quickswitch_BRD.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Quickswitch_BRD.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D96
-    D97
 *************************************************************
 
 *************************************************************
@@ -307,7 +320,7 @@ Generating : Drill Drawing
 Used DCodes :
     D10
     D11
-    D99
+    D71
     D101
 *************************************************************
 

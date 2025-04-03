@@ -1,17 +1,17 @@
 Altium Designer Pick and Place Locations
-S:\anzoraslanukov-designreview\Design Files\BLE_Quick Switch V5\Project Outputs for quickswitchv5-v1.1\Pick Place for Quickswitch_BRD.txt
+D:\eSpark-Consultants\anzoraslanukov-designreview\Design Files\BLE_Quick Switch V5\Project Outputs for quickswitchv5-v1.1\Pick Place for Quickswitch_BRD.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       30/03/25
-Time:       11:14
-Revision:   e69f06a77f8293b560d12e6e3c5662978f709b17
+Date:       03/04/25
+Time:       19:44
+Revision:   4bc51d6ac92581ec57555d0f0e5d9ce2e21313e1
 Variant:    No variations
 Units used: mm
 
 Designator Center-X(mm) Center-Y(mm) Layer       Rotation Ref-X(mm)  Ref-Y(mm)  Pad-X(mm)  Pad-Y(mm)  
-ANT1       0.0254mm     15.3162mm    TopLayer    0        0.0254mm   15.3162mm  -1.8746mm  15.3162mm  
+ANT1       -0.1670mm    16.3068mm    TopLayer    180      -0.1670mm  16.3068mm  1.7330mm   16.3068mm  
 C1         7.4839mm     2.4477mm     TopLayer    180      7.4839mm   2.4477mm   7.9538mm   2.4477mm   
 C2         7.4839mm     5.0131mm     TopLayer    180      7.4839mm   5.0131mm   7.9538mm   5.0131mm   
 C3         -5.7336mm    4.2797mm     TopLayer    0        -5.7336mm  4.2797mm   -6.4956mm  4.2797mm   
@@ -23,15 +23,17 @@ C8         5.3213mm     6.0833mm     TopLayer    180      5.3213mm   6.0833mm   
 C9         -4.8954mm    8.9543mm     TopLayer    90       -4.8954mm  8.9543mm   -4.8954mm  8.4843mm   
 C10        5.3213mm     7.0960mm     TopLayer    0        5.3213mm   7.0960mm   4.8514mm   7.0960mm   
 C11        -5.9389mm    8.9543mm     TopLayer    270      -5.9389mm  8.9543mm   -5.9389mm  9.4242mm   
-C12        0.2699mm     13.8023mm    TopLayer    180      0.2699mm   13.8023mm  0.7398mm   13.8023mm  
-C13        -1.8746mm    12.3825mm    TopLayer    90       -1.8746mm  12.3825mm  -1.8746mm  11.9126mm  
+C12        1.4000mm     13.1828mm    TopLayer    90       1.4000mm   13.1828mm  1.4000mm   12.7129mm  
+C13        -0.1683mm    11.4562mm    TopLayer    0        -0.1683mm  11.4562mm  -0.6382mm  11.4562mm  
 C14        -2.3368mm    -8.5591mm    TopLayer    180      -2.3368mm  -8.5591mm  -1.5748mm  -8.5591mm  
 C15        -2.3368mm    -9.9441mm    TopLayer    0        -2.3368mm  -9.9441mm  -3.0988mm  -9.9441mm  
 D1         12.9110mm    -0.3943mm    TopLayer    0        12.9110mm  -0.3943mm  11.0110mm  -0.3943mm  
 D2         6.6571mm     -4.4088mm    TopLayer    270      6.6571mm   -4.4087mm  6.6571mm   -3.9887mm  
 J1         6.6294mm     -10.9220mm   TopLayer    0        6.6294mm   -10.9220mm 5.3594mm   -11.5570mm 
 J2         0.0000mm     0.0000mm     BottomLayer 0        0.0000mm   0.0000mm   14.5000mm  0.0000mm   
-L1         -1.5100mm    13.8531mm    TopLayer    180      -1.5100mm  13.8531mm  -1.1600mm  13.8531mm  
+L1         1.4000mm     11.7313mm    TopLayer    90       1.4000mm   11.7313mm  1.4000mm   11.4563mm  
+L2         1.3998mm     14.7828mm    TopLayer    90       1.3998mm   14.7828mm  1.3998mm   14.5078mm  
+L3         0.0266mm     13.6652mm    TopLayer    0        0.0266mm   13.6652mm  -0.2485mm  13.6652mm  
 LED1       9.7950mm     10.0076mm    TopLayer    0        9.7950mm   10.0076mm  9.0450mm   10.0076mm  
 Q1         7.2094mm     -0.3454mm    TopLayer    90       7.2094mm   -0.3454mm  8.2094mm   -1.2954mm  
 Q2         8.9064mm     -3.8434mm    TopLayer    0        8.9064mm   -3.8434mm  7.9564mm   -4.8434mm  
